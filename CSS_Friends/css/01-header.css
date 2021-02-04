@@ -1,2 +1,7 @@
 /* PHASE 1: Header */
 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: auto;
+    font-size: auto;
+}
